@@ -561,6 +561,27 @@
         }
       ],
       "uuid": "b4caaa8d-9eb3-41e3-a942-f3996066fd58"
+    },
+    {
+      "start_time": 30,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A pause before beginning her personal story"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "2e5cc816-8dd1-4670-9b01-19d6da37f6f5"
     }
   ],
   "set": "Default",
