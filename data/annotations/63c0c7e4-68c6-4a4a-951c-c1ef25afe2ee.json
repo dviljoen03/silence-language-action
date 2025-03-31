@@ -1,5 +1,522 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This tempo sets the tone for the reading, which is a steady pace that resembles a lecture. This makes it so that the listener pays closer attention to the changes in tempo and silences throughout the reading. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "4bc62cc8-db2b-4e3c-b05c-e206ce396081"
+    },
+    {
+      "start_time": 13,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This was a change in tempo, she pauses for a moment longer before saying “that the speaking profits me beyond any other effect.” She is conveying that turning your emotions into language is the only way to make difference and create connection with others. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "5a73b219-98fc-4aa9-b7c4-adbe36418764"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Small pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "81d6fd6a-b3c5-4b1a-bf28-ef6bdb288e10"
+    },
+    {
+      "start_time": 19,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am standing here as a Black lesbian poet, and the meaning of all that relies upon the fact I am alive at all, and I had not thought to be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "67d3bc1d-672b-4b9d-a8ef-de0f9566af64"
+    },
+    {
+      "start_time": 22,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her identity holds meaning to her because she is alive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "3c49d705-bc49-4b6c-bcca-5b5245399929"
+    },
+    {
+      "start_time": 22,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and the meaning of all that relies on the fact that I am alive at all"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "9c189e7c-db01-4719-be72-8dc2c96f8d72"
+    },
+    {
+      "start_time": 47,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She speaks a bit slower here, I think she is trying to emphasize that the pain of “involuntary reorganization” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "e953b6a0-7707-463f-b675-820ee08f36b0"
+    },
+    {
+      "start_time": 59,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This felt more conversational, like she was trying to reassure the listener, or even herself, that she was fine at that moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "cd36d9fd-16e1-4efe-9320-8734e6eb9048"
+    },
+    {
+      "start_time": 67,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was forced to look upon myself and my living with a harsh and urgent clarity that has left me even now still shaken but much stronger"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "67f820e8-640c-4a70-b65f-d66656e8462b"
+    },
+    {
+      "start_time": 107,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This was much quicker than her usual pace, rushing through the mention of a short life sounds like it is hard for her to face her own mortality when she feels like she has wasted time being silent and hasn’t finished doing what she wants to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "25c5f151-7dfc-48d8-8929-39fe10fd5d77"
+    },
+    {
+      "start_time": 107,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However short it might be"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "3c7f6b1c-922d-4eac-8431-f2a96bd74e5f"
+    },
+    {
+      "start_time": 116,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and what I most regretted were my silences"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c4557aea-ce39-407d-b911-5d703f97ce06"
+    },
+    {
+      "start_time": 116,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She speaks slower, and she sounds sad and mad at herself. Lorde emphasizes each word. It sounds like a warning to others, no matter what stage of life they are in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "272e730c-1971-4775-bf08-e592393ed6e8"
+    },
+    {
+      "start_time": 122,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her question to herself sounds frustrated and exasperated; she is now faced with a diagnosis that will end her life and she feels like she wasted time being afraid of nothing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "cfb66c91-98d1-4a42-985a-1f5c642fee63"
+    },
+    {
+      "start_time": 122,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Of what had I ever been afraid?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "772f8dba-c453-47cd-849d-516729f054c8"
+    },
+    {
+      "start_time": 131,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“But we all hurt, all the time, in so many different ways, and pain either changes or ends.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "8e7e5952-fa8a-4108-9261-7692a1ebf21b"
+    },
+    {
+      "start_time": 131,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sadness, honesty. She is saying all people have different life experiences, but there is a possibility to make differences with the hurt we carry. You can wait for it to end, or turn it into something else. Her sadness, I think, is coming from a place of anger at herself for sometimes choosing silence – in other words, waiting for the pain to end. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "dec5da43-fcd1-4d9e-9fbd-74891179094d"
+    },
+    {
+      "start_time": 132,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Something is tapping on or obscuring the microphone, it creates a sound that resembles a heart beat. It leads to the sound cutting out. This sound combines interestingly with the subject matter at hand being death, and it only stops when it lapses into silence. Creates a feeling of anxiety or impending doom followed by confusion and disappointment thinking that the reading is over so abruptly. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "30221cf7-310e-4785-8a21-ee5bbe44b0cc"
+    },
+    {
+      "start_time": 140,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Death on the other -"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "f3b42954-b5b9-46f2-936f-6ffd7f5eea9a"
+    },
+    {
+      "start_time": 143,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence. The microphone has cut out where the text is supposed to read “Death, on the other hand, is the final silence. And that might be coming quickly, now, without regard for whether I had ever spoken what needed to be said, or had only betrayed myself into small silences, while I planned someday to speak, or waited for someone else's words.” This is a powerful moment for the audio to cut out as Lorde died of breast cancer in 1992 and is living that ‘final silence’. The audio cuts when she is about to speak about fearing dying without saying how she felt or what she wanted to say. Now, we are listening to an audio of her spreading her message post-mortem. In a way, she has no final silence because we never stopped listening. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "6cbdfe54-34e6-4bd9-be7a-43f1f1b02bd2"
+    },
+    {
+      "start_time": 170,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lorde has a quite steady pace throughout this reading. This pause, and particularly the length of the pause, forces the listener to pay closer attention to the next part."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "cabbea1a-300a-4b87-8b6d-33c984cb794b"
+    },
+    {
+      "start_time": 172,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She sounds earnest and self reflective here. Turning away from her typical commanding tone to address her situation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "26bdf825-2bf6-443c-8ae8-1664ef05b59d"
+    },
+    {
+      "start_time": 178,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Extra emphasis on “ever” – Lorde is acknowledging that life and death occurs no matter what. She is getting her message across that a person might as well speak and do something with their emotions, thoughts, and feelings rather than live with regret like she did. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "073e97b7-a257-4a8f-8211-dd5fc9e821b3"
+    },
+    {
+      "start_time": 182,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She’s speaking with such conviction, like she is trying to warn whoever is listening that they should not suppress their thoughts and their feelings. She sounds stern while she speaks slowly, making the listener hear every word she says. Her anger is not directed at the person who is silent, but rather at the system which creates silence. She doesn’t want other people to be silent like she has been, she is urging the listener to learn from her mistakes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "e16e304c-03b1-4101-b5f3-64a2571ae901"
+    }
+  ],
   "set": "Default",
   "event_id": "4a4789ce-849a-4c58-a73d-e10231883aec",
   "source_id": "474cd679-8014-4522-8bcc-27aa46f3dc7c"
