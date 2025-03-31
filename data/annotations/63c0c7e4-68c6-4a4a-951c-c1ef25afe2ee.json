@@ -515,6 +515,31 @@
         }
       ],
       "uuid": "e16e304c-03b1-4101-b5f3-64a2571ae901"
+    },
+    {
+      "start_time": 85,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This feels like Lorde’s thesis, she takes her time annunciating her words as she switches from the conversational tone of addressing her health back to the point of why she is speaking and what she wants people to learn from her experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "c09c4e87-c82d-4095-bfb8-af3cfdf5cea7"
     }
   ],
   "set": "Default",
