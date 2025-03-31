@@ -1,1 +1,29 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"dviljoen03","is_private":false,"title":"The Transformation of Silence into Language and Action","description":"“The Transformation of Silence into Language and Action” in Sister Outsider by Audre Lorde, read by Audre Lorde.\n","language":"en","slug":"silence-language-action","creator":"dviljoen03","authors":"Danae Viljoen","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-03-31T09:34:22.697Z","updated_at":"2025-03-31T21:13:00.007Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "dviljoen03",
+    "is_private": false,
+    "title": "The Transformation of Silence into Language and Action",
+    "description": "“The Transformation of Silence into Language and Action” in Sister Outsider by Audre Lorde, read by Audre Lorde.\n",
+    "language": "en",
+    "slug": "silence-language-action",
+    "creator": "dviljoen03",
+    "authors": "Danae Viljoen",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-31T09:34:22.697Z",
+    "updated_at": "2025-03-31T21:16:17.735Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
