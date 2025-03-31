@@ -540,6 +540,27 @@
         }
       ],
       "uuid": "c09c4e87-c82d-4095-bfb8-af3cfdf5cea7"
+    },
+    {
+      "start_time": 67,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She switches again into her 'lecture' tone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "b4caaa8d-9eb3-41e3-a942-f3996066fd58"
     }
   ],
   "set": "Default",
