@@ -35,11 +35,11 @@
   "created_by": "dviljoen03",
   "title": "The Transformation of Silence Into Language and Action",
   "slug": "the-transformation-of-silence-into-language-a",
-  "updated_at": "2025-04-25T22:18:07.592Z",
+  "updated_at": "2025-04-25T22:25:27.044Z",
   "updated_by": "dviljoen03",
   "parent": "ae5c3dfd-0f99-434b-a895-9fd5f4db6174",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "4a4789ce-849a-4c58-a73d-e10231883aec"
   }
